@@ -55,7 +55,7 @@ Busca de produto
 Adição ao carrinho
 Validação no checkout
 Finalização da compra
-🔌 Testes de API
+ Testes de API
 
 Validação do endpoint:
 
@@ -89,7 +89,8 @@ Uso no projeto:
 
 Cypress.env("EMAIL")
 Cypress.env("PASSWORD")
-🧠 Boas práticas aplicadas
+
+Boas práticas aplicadas
 Separação Web e API
 Page Objects
 BDD com Cucumber
